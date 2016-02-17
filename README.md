@@ -1,11 +1,6 @@
 # ARCAD-Demo
-<<<<<<< HEAD
-For Git Demo purpose made sor change here
+For Git Demo purpose made some more change here
 here is some changes
 an more here
-=======
+and another here
 
-here is some changes
-For Git Demo purpose
-and for more test
->>>>>>> master
